@@ -1,0 +1,33 @@
+h1{color:red;
+}
+form{
+    size: 0cm;
+    padding: 2rem 3rem;
+    border: 2px solid burlywood;
+    border-radius: 2em;
+    width: 50%;
+    margin: auto;
+   
+    
+}
+.block1,.dob1,.gender1{
+    display: inline-block;
+}
+.city1{
+    display: inline-block;
+}
+.city2{
+    display: inline-block
+}
+.sub1{
+    text-align: center;
+}
+button{
+    padding: 0.22rem 0.56rem;
+    border-radius: 0.23rem;
+    background-color: rgb(42, 250, 42);
+    border-color: beige;
+    box-shadow: 0.3cm;
+    
+
+}
